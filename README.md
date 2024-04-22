@@ -23,12 +23,7 @@ objfile : /home/rapa/myproject_MATE/test/obj/1.obj
 texture : /home/rapa/myproject_MATE/test/texture/1
 
 
-(texture 디렉토리 안에 있는 4_1 ~ 4_4는 4번 obj파일을 위한 텍스쳐디렉토리입니다)
 
 
-objfile : /home/rapa/myproject_MATE/test/obj/4.obj
-
-
-texture : /home/rapa/myproject_MATE/test/texture/4_1
 
 
