@@ -1,7 +1,7 @@
 
 # myproject_MATE(Maya Auto Texture Exporter)
 
-**호환성**: maya2024 버전에서만 사용 가능합니다.
+**호환성**: maya2024 버전에서만 사용 가능합니다, 리눅스 환경에서만 사용 가능합니다.
 
 
 **설치**: repository를 홈 디렉토리에 두어야 합니다
