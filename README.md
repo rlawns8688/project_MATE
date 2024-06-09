@@ -1,16 +1,16 @@
 
 # myproject_MATE(Maya Auto Texture Exporter)
 
-**호환성**: maya2024 버전에서만 사용 가능합니다, 리눅스 환경에서만 사용 가능합니다.
+**Compatibility**: Only compatible with Maya 2024 version, and Linux environment.
 
 
-**설치**: repository를 홈 디렉토리에 두어야 합니다
+**Installation**: The repository should be placed in the home directory.
 
 
-**사용 방법**: ui_main.py를 실행하여서 사용합니다 
+**Usage**: Run ui_main.py to use the application.
 
 
-**테스트 사용**: test 폴더의 예제를 사용할 때에 경로를 다음과 같이 입력해주세요
+**Testing**: When using the examples in the test folder, please input the path as follows.
 
 
 
